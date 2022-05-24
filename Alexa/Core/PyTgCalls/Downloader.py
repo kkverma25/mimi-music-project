@@ -1,6 +1,6 @@
 from os import path
 
-from youtube_dl import YoutubeDL
+from yt_dlp import YoutubeDL
 
 from Alexa import MUSIC_BOT_NAME
 
