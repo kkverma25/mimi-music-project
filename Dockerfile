@@ -1,4 +1,6 @@
-FROM nikolaik/python-nodejs:python3.9-nodejs17
+FROM python:3.8.3-alpine
+RUN pip install --upgrade pip
+FROM nikolaik/python-nodejs:python3.9-nodejs18
 RUN apt-get update \
     && apt-get install -y --no-install-recommends ffmpeg \
     && apt-get clean \
