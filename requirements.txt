@@ -21,7 +21,7 @@ heroku3
 flask==2.1.1
 werkzeug==2.0.3
 requests
-pyyaml==5.3.1
+PyYAML>=5.3.1
 gitpython
 spotipy
 pykeyboard
