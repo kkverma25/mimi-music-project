@@ -319,7 +319,7 @@ def secondary_markup(videoid, user_id):
 
         [
 
-            InlineKeyboardButton(text="💥 ɴᴇᴛᴡᴏʀᴋ 💞", url=f"https://t.me/Shayri_Music_Lovers"),
+            InlineKeyboardButton(text="ᏟᎻᎪͲͲ ᎻႮᏴ", url=f"https://t.me/Shayri_Music_Lovers"),
 
         ],
 
@@ -327,11 +327,11 @@ def secondary_markup(videoid, user_id):
 
             InlineKeyboardButton(
 
-                text="🔗 ᴍᴏʀᴇ ᴍᴇɴᴜ", callback_data=f"other {videoid}|{user_id}"
+                text="🔗ᎷϴᎡᎬ ᎷᎬΝႮ", callback_data=f"other {videoid}|{user_id}"
 
             ),
 
-            InlineKeyboardButton(text="❤️ ᴏᴡɴᴇʀ ❤️", url=f"https://t.me/Dr_Asad_Ali"),
+            InlineKeyboardButton(text="ᎠᎬᏙ", url=f"https://t.me/Dr_Asad_Ali"),
 
         ],
 
@@ -345,13 +345,13 @@ def secondary_markup2(videoid, user_id):
 
         [
 
-            InlineKeyboardButton(text="💥 ᴀʟᴇxᴀ ᴄʜᴀᴛ 💞⁩", url=f"https://t.me/Alexa_Help"),
+            InlineKeyboardButton(text="ᎷϴᏙᏆᎬՏ", url=f"https://t.me/Alexa_Help"),
 
         ],
 
         [
 
-            InlineKeyboardButton(text="❤️ sᴜᴘᴘᴏʀᴛ ❤️", url=f"https://t.me/Asad_Support"),
+            InlineKeyboardButton(text="ᎷႮՏᏆᏟՏ", url=f"https://t.me/Asad_Support"),
 
         ],
 
@@ -383,7 +383,7 @@ def primary_markup(videoid, user_id, current_time, total_time):
 
         [
 
-            InlineKeyboardButton(text="💥 ᴀʟᴇxᴀ ᴄʜᴀᴛ 💞", url=f"https://t.me/Alexa_Help"),
+            InlineKeyboardButton(text="ᏟᎻᎪͲͲ ᎻႮᏴ", url=f"https://t.me/Alexa_Help"),
 
         ],
 
@@ -391,11 +391,11 @@ def primary_markup(videoid, user_id, current_time, total_time):
 
             InlineKeyboardButton(
 
-                text="🔗 ᴍᴏʀᴇ ᴍᴇɴᴜ", callback_data=f"other {videoid}|{user_id}"
+                text="🔗ᎷϴᎡᎬ ᎷᎬΝႮ", callback_data=f"other {videoid}|{user_id}"
 
             ),
 
-            InlineKeyboardButton(text="❤️ ᴏᴡɴᴇʀ ❤️", url=f"https://t.me/Dr_Asad_Ali"),
+            InlineKeyboardButton(text="ᎠᎬᏙ", url=f"https://t.me/Dr_Asad_Ali"),
 
         ],
 
@@ -421,7 +421,7 @@ def timer_markup(videoid, user_id, current_time, total_time):
 
         [
 
-            InlineKeyboardButton(text="💥 ᴀʟᴇxᴀ ᴄʜᴀᴛ 💞", url=f"https://t.me/Alexa_Help"),
+            InlineKeyboardButton(text="ᎷϴᏙᏆᎬՏ", url=f"https://t.me/Alexa_Help"),
 
         ],
 
@@ -429,11 +429,11 @@ def timer_markup(videoid, user_id, current_time, total_time):
 
             InlineKeyboardButton(
 
-                text="🔗 ᴍᴏʀᴇ ᴍᴇɴᴜ", callback_data=f"other {videoid}|{user_id}"
+                text="🔗ᎷϴᎡᎬ ᎷᎬΝႮ", callback_data=f"other {videoid}|{user_id}"
 
             ),
 
-            InlineKeyboardButton(text="❤️ ᴏᴡɴᴇʀ ❤️", url=f"https://t.me/Dr_Asad_Ali"),
+            InlineKeyboardButton(text="ᎠᎬᏙ", url=f"https://t.me/Dr_Asad_Ali"),
 
         ],
 
@@ -465,11 +465,11 @@ def audio_markup(videoid, user_id, current_time, total_time):
 
         [
 
-            InlineKeyboardButton(text="💥 ɴᴇᴛᴡᴏʀᴋ 💞", url=f"https://t.me/Shayri_Music_Lovers"),
+            InlineKeyboardButton(text="ᎷϴᏙᏆᎬՏ", url=f"https://t.me/Shayri_Music_Lovers"),
 
         ],
 
-        [InlineKeyboardButton(text="❤️ ᴏᴡɴᴇʀ ❤️", url=f"https://t.me/Dr_Asad_Ali")],
+        [InlineKeyboardButton(text="ᎷႮՏᏆᏟՏ", url=f"https://t.me/Dr_Asad_Ali")],
 
     ]
 
@@ -493,11 +493,11 @@ def audio_timer_markup_start(videoid, user_id, current_time, total_time):
 
         [
 
-            InlineKeyboardButton(text="💥 ᴀʟᴇxᴀ ᴄʜᴀᴛ 💞⁩", url=f"https://t.me/Alexa_Help"),
+            InlineKeyboardButton(text="ᏟᎻᎪͲͲ ᎻႮᏴ⁩", url=f"https://t.me/Alexa_Help"),
 
         ],
 
-        [InlineKeyboardButton(text="❤️ ᴏᴡɴᴇʀ ❤️", url=f"https://t.me/Dr_Asad_Ali")],
+        [InlineKeyboardButton(text="ᎠᎬᏙ", url=f"https://t.me/Dr_Asad_Ali")],
 
     ]
 
@@ -509,11 +509,11 @@ audio_markup2 = InlineKeyboardMarkup(
 
         [
 
-            InlineKeyboardButton(text="💥 ᴀʟᴇxᴀ ᴄʜᴀᴛ 💞", url=f"https://t.me/Alexa_Help"),
+            InlineKeyboardButton(text="ᏟᎻᎪͲͲ ᎻႮᏴ", url=f"https://t.me/Alexa_Help"),
 
         ],
 
-        [InlineKeyboardButton(text="❤️ ᴏᴡɴᴇʀ ❤️", url=f"https://t.me/Dr_Asad_Ali")],
+        [InlineKeyboardButton(text="ᎷϴᏙᏆᎬՏ", url=f"https://t.me/Dr_Asad_Ali")],
 
     ]
 
